@@ -1,0 +1,37 @@
+
+
+.laoding-container {
+    transition: all 200ms;
+    position: fixed; /* Stay in place */
+    z-index: 9999999999; /* Sit on top */
+    padding-top: 10px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(255,255,255 , 0.8); /* Fallback color */  
+    text-align: center;  
+    padding-top: 200px;
+}
+
+.loading-box {
+    width: 400px;
+    height: 300px;
+    background-color: #ffffffb0;
+    margin: auto;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 5px;
+    color: #333333;
+
+
+
+}
+
+
+@media screen and (max-width: 750px) {
+ 
+}
