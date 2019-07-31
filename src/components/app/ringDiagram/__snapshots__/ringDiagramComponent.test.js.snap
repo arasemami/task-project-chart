@@ -1,0 +1,77 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="ring-container"
+>
+  <h2 />
+  <p
+    className="label-of-ring"
+  >
+     
+  </p>
+  <svg
+    className="CircularProgressbar "
+    data-test-id="CircularProgressbar"
+    style={Object {}}
+    viewBox="0 0 100 100"
+  >
+    <path
+      className="CircularProgressbar-trail"
+      d="
+      M 50,50
+      m 0,-41.5
+      a 41.5,41.5 0 1 1 0,83
+      a 41.5,41.5 0 1 1 0,-83
+    "
+      fillOpacity={0}
+      strokeWidth={17}
+      style={
+        Object {
+          "stroke": "#d6d6d6",
+          "strokeDasharray": "260.75219024795285px 260.75219024795285px",
+          "strokeDashoffset": "0px",
+          "strokeLinecap": "butt",
+          "transform": "rotate(0.25turn)",
+          "transformOrigin": "center center",
+        }
+      }
+    />
+    <path
+      className="CircularProgressbar-path"
+      d="
+      M 50,50
+      m 0,-41.5
+      a 41.5,41.5 0 1 1 0,83
+      a 41.5,41.5 0 1 1 0,-83
+    "
+      fillOpacity={0}
+      strokeWidth={17}
+      style={
+        Object {
+          "stroke": "rgba(undefined, NaN)",
+          "strokeDasharray": "260.75219024795285px 260.75219024795285px",
+          "strokeDashoffset": "NaNpx",
+          "strokeLinecap": "butt",
+          "transform": "rotate(0.25turn)",
+          "transformOrigin": "center center",
+          "transitionDuration": "0.5s",
+        }
+      }
+    />
+    <text
+      className="CircularProgressbar-text"
+      style={
+        Object {
+          "fill": "#f88",
+          "fontSize": "16px",
+        }
+      }
+      x={50}
+      y={50}
+    >
+      NaN%
+    </text>
+  </svg>
+</div>
+`;
