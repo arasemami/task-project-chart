@@ -25,7 +25,7 @@ Launches the test runner in the interactive watch mode.<br>
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 
-Watch Usage
+Watch Usage <br>
 ```  › Press a to run all tests.```<br>
 ``` › Press f to run only failed tests.```<br>
 ``` › Press o to only run tests related to changed files.```<br>
@@ -54,10 +54,10 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
  ## What i use in this project <br>
 
- ### react-apexcharts
- ### react-circular-progressbar
- ### react-test-renderer
- ### jest
+ ### - react-apexcharts
+ ### - react-circular-progressbar
+ ### - react-test-renderer
+ ### - jest
 
 
   ## Note <br>
