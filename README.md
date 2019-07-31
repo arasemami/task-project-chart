@@ -26,6 +26,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 
 Watch Usage
+```  › Press a to run all tests.```
 ``` › Press f to run only failed tests.```
 ``` › Press o to only run tests related to changed files.```
 ``` › Press q to quit watch mode.```
