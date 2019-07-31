@@ -26,13 +26,13 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 
 Watch Usage
-```  › Press a to run all tests.```
-``` › Press f to run only failed tests.```
-``` › Press o to only run tests related to changed files.```
-``` › Press q to quit watch mode.```
-``` › Press p to filter by a filename regex pattern.```
-``` › Press t to filter by a test name regex pattern.```
-``` › Press Enter to trigger a test run.```
+```  › Press a to run all tests.```<br>
+``` › Press f to run only failed tests.```<br>
+``` › Press o to only run tests related to changed files.```<br>
+``` › Press q to quit watch mode.```<br>
+``` › Press p to filter by a filename regex pattern.```<br>
+``` › Press t to filter by a test name regex pattern.```<br>
+``` › Press Enter to trigger a test run.```<br>
 
 
 
